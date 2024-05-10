@@ -1,5 +1,5 @@
-Si estás aprendiendo Python, este artículo es para ti. Encontrarás una descripción detallada de la sintaxis de Python y muchos ejemplos 
-de código para guiarte en tu viaje por el mundo de la programación.
+## Si estás aprendiendo Python, este artículo es para ti. Encontrarás una descripción detallada de la sintaxis de Python y muchos ejemplos 
+## de código para guiarte en tu viaje por el mundo de la programación.
 
 Aprenderás Sobre:
 Variables en Python
@@ -24,7 +24,7 @@ Y más...
  elemento descrito en el texto. Por ejemplo, <var> significa que ese elemento sería reemplazado por una variable
   cuando escribimos el código en Python.
 
-EJEMPLO 
+## EJEMPLO 
 
   >>> type(1)
 <class 'int'>
